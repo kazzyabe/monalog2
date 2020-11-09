@@ -1,0 +1,203 @@
+------------------------------
+
+*** solving sick 3 ***
+
+-- relation: hyponym    BOY:KID N:N
+-- relation: hyponym    BOY:MAN N:N
+
+*** polarizing ***
+
+P: a↑ young↑ boy↑ be↑ play↑ outdoors↑ and↑ a↑ man↑ be↑ smile↑ nearby↑ 
+H: A kids are playing outdoors near a man with a smile 
+
+*** replacement ***
+
+
+--- tried ** 60 ** inferences:
+some↑ young↑ boys↑ are↑ playing↑ outdoors↑ and↑ a↑ man↑ is↑ smiling↑ nearby↑ 
+an↑ young↑ boys↑ are↑ playing↑ outdoors↑ and↑ a↑ man↑ is↑ smiling↑ nearby↑ 
+one↑ young↑ boys↑ are↑ playing↑ outdoors↑ and↑ a↑ man↑ is↑ smiling↑ nearby↑ 
+A↑ young↑ kids↑ are↑ playing↑ outdoors↑ and↑ a↑ man↑ is↑ smiling↑ nearby↑ 
+A↑ young↑ man↑ are↑ playing↑ outdoors↑ and↑ a↑ man↑ is↑ smiling↑ nearby↑ 
+A↑ young↑ boys↑ are↑ playing↑ outdoors↑ and↑ some↑ man↑ is↑ smiling↑ nearby↑ 
+A↑ young↑ boys↑ are↑ playing↑ outdoors↑ and↑ an↑ man↑ is↑ smiling↑ nearby↑ 
+A↑ young↑ boys↑ are↑ playing↑ outdoors↑ and↑ one↑ man↑ is↑ smiling↑ nearby↑ 
+A↑ boys↑ are↑ playing↑ outdoors↑ and↑ a↑ man↑ is↑ smiling↑ nearby↑ 
+A↑ young↑ boys↑ are↑ playing↑ and↑ a↑ man↑ is↑ smiling↑ nearby↑ 
+A↑ young↑ boys↑ are↑ playing↑ outdoors↑ and↑ a↑ man↑ is↑ smiling↑ 
+some↑ young↑ boys↑ are↑ playing↑ outdoors↑ and↑ a↑ man↑ is↑ smiling↑ 
+an↑ young↑ boys↑ are↑ playing↑ outdoors↑ and↑ a↑ man↑ is↑ smiling↑ 
+one↑ young↑ boys↑ are↑ playing↑ outdoors↑ and↑ a↑ man↑ is↑ smiling↑ 
+A↑ young↑ kids↑ are↑ playing↑ outdoors↑ and↑ a↑ man↑ is↑ smiling↑ 
+A↑ young↑ man↑ are↑ playing↑ outdoors↑ and↑ a↑ man↑ is↑ smiling↑ 
+A↑ young↑ boys↑ are↑ playing↑ outdoors↑ and↑ some↑ man↑ is↑ smiling↑ 
+A↑ young↑ boys↑ are↑ playing↑ outdoors↑ and↑ an↑ man↑ is↑ smiling↑ 
+A↑ young↑ boys↑ are↑ playing↑ outdoors↑ and↑ one↑ man↑ is↑ smiling↑ 
+A↑ boys↑ are↑ playing↑ outdoors↑ and↑ a↑ man↑ is↑ smiling↑ 
+A↑ young↑ boys↑ are↑ playing↑ and↑ a↑ man↑ is↑ smiling↑ 
+some↑ young↑ boys↑ are↑ playing↑ and↑ a↑ man↑ is↑ smiling↑ nearby↑ 
+an↑ young↑ boys↑ are↑ playing↑ and↑ a↑ man↑ is↑ smiling↑ nearby↑ 
+one↑ young↑ boys↑ are↑ playing↑ and↑ a↑ man↑ is↑ smiling↑ nearby↑ 
+A↑ young↑ kids↑ are↑ playing↑ and↑ a↑ man↑ is↑ smiling↑ nearby↑ 
+A↑ young↑ man↑ are↑ playing↑ and↑ a↑ man↑ is↑ smiling↑ nearby↑ 
+A↑ young↑ boys↑ are↑ playing↑ and↑ some↑ man↑ is↑ smiling↑ nearby↑ 
+A↑ young↑ boys↑ are↑ playing↑ and↑ an↑ man↑ is↑ smiling↑ nearby↑ 
+A↑ young↑ boys↑ are↑ playing↑ and↑ one↑ man↑ is↑ smiling↑ nearby↑ 
+A↑ boys↑ are↑ playing↑ and↑ a↑ man↑ is↑ smiling↑ nearby↑ 
+some↑ boys↑ are↑ playing↑ outdoors↑ and↑ a↑ man↑ is↑ smiling↑ nearby↑ 
+an↑ boys↑ are↑ playing↑ outdoors↑ and↑ a↑ man↑ is↑ smiling↑ nearby↑ 
+one↑ boys↑ are↑ playing↑ outdoors↑ and↑ a↑ man↑ is↑ smiling↑ nearby↑ 
+A↑ kids↑ are↑ playing↑ outdoors↑ and↑ a↑ man↑ is↑ smiling↑ nearby↑ 
+A↑ man↑ are↑ playing↑ outdoors↑ and↑ a↑ man↑ is↑ smiling↑ nearby↑ 
+A↑ boys↑ are↑ playing↑ outdoors↑ and↑ some↑ man↑ is↑ smiling↑ nearby↑ 
+A↑ boys↑ are↑ playing↑ outdoors↑ and↑ an↑ man↑ is↑ smiling↑ nearby↑ 
+A↑ boys↑ are↑ playing↑ outdoors↑ and↑ one↑ man↑ is↑ smiling↑ nearby↑ 
+some↑ young↑ boys↑ are↑ playing↑ outdoors↑ and↑ one↑ man↑ is↑ smiling↑ nearby↑ 
+an↑ young↑ boys↑ are↑ playing↑ outdoors↑ and↑ one↑ man↑ is↑ smiling↑ nearby↑ 
+one↑ young↑ boys↑ are↑ playing↑ outdoors↑ and↑ one↑ man↑ is↑ smiling↑ nearby↑ 
+A↑ young↑ kids↑ are↑ playing↑ outdoors↑ and↑ one↑ man↑ is↑ smiling↑ nearby↑ 
+A↑ young↑ man↑ are↑ playing↑ outdoors↑ and↑ one↑ man↑ is↑ smiling↑ nearby↑ 
+A↑ young↑ boys↑ are↑ playing↑ outdoors↑ and↑ a↑ man↑ is↑ smiling↑ nearby↑ 
+some↑ young↑ boys↑ are↑ playing↑ outdoors↑ and↑ an↑ man↑ is↑ smiling↑ nearby↑ 
+an↑ young↑ boys↑ are↑ playing↑ outdoors↑ and↑ an↑ man↑ is↑ smiling↑ nearby↑ 
+one↑ young↑ boys↑ are↑ playing↑ outdoors↑ and↑ an↑ man↑ is↑ smiling↑ nearby↑ 
+A↑ young↑ kids↑ are↑ playing↑ outdoors↑ and↑ an↑ man↑ is↑ smiling↑ nearby↑ 
+A↑ young↑ man↑ are↑ playing↑ outdoors↑ and↑ an↑ man↑ is↑ smiling↑ nearby↑ 
+some↑ young↑ boys↑ are↑ playing↑ outdoors↑ and↑ some↑ man↑ is↑ smiling↑ nearby↑ 
+an↑ young↑ boys↑ are↑ playing↑ outdoors↑ and↑ some↑ man↑ is↑ smiling↑ nearby↑ 
+one↑ young↑ boys↑ are↑ playing↑ outdoors↑ and↑ some↑ man↑ is↑ smiling↑ nearby↑ 
+A↑ young↑ kids↑ are↑ playing↑ outdoors↑ and↑ some↑ man↑ is↑ smiling↑ nearby↑ 
+A↑ young↑ man↑ are↑ playing↑ outdoors↑ and↑ some↑ man↑ is↑ smiling↑ nearby↑ 
+some↑ young↑ man↑ are↑ playing↑ outdoors↑ and↑ a↑ man↑ is↑ smiling↑ nearby↑ 
+an↑ young↑ man↑ are↑ playing↑ outdoors↑ and↑ a↑ man↑ is↑ smiling↑ nearby↑ 
+one↑ young↑ man↑ are↑ playing↑ outdoors↑ and↑ a↑ man↑ is↑ smiling↑ nearby↑ 
+some↑ young↑ kids↑ are↑ playing↑ outdoors↑ and↑ a↑ man↑ is↑ smiling↑ nearby↑ 
+an↑ young↑ kids↑ are↑ playing↑ outdoors↑ and↑ a↑ man↑ is↑ smiling↑ nearby↑ 
+one↑ young↑ kids↑ are↑ playing↑ outdoors↑ and↑ a↑ man↑ is↑ smiling↑ nearby↑ 
+
+--- tried ** 1 ** contradictions:
+no young boy be play outdoors and a man be smile nearby
+
+*** H: A KID BE PLAY OUTDOORS NEAR A MAN WITH A SMILE
+
+*** decision ***
+y_pred: U
+y_true: E
+------------------------------
+
+*** solving sick 3 ***
+
+-- relation: hyponym    BOY:KID N:N
+-- relation: hyponym    BOY:MAN N:N
+
+*** polarizing ***
+
+P: a↑ kid↑ be↑ play↑ outdoors↑ near↑ a↑ man↑ with↑ a↑ smile↑ 
+H: A young boys are playing outdoors and a man is smiling nearby 
+
+*** replacement ***
+
+
+--- tried ** 60 ** inferences:
+some↑ kids↑ are↑ playing↑ outdoors↑ near↑ a↑ man↑ with↑ a↑ smile↑ 
+an↑ kids↑ are↑ playing↑ outdoors↑ near↑ a↑ man↑ with↑ a↑ smile↑ 
+one↑ kids↑ are↑ playing↑ outdoors↑ near↑ a↑ man↑ with↑ a↑ smile↑ 
+A↑ kids↑ are↑ playing↑ outdoors↑ near↑ some↑ man↑ with↑ a↑ smile↑ 
+A↑ kids↑ are↑ playing↑ outdoors↑ near↑ an↑ man↑ with↑ a↑ smile↑ 
+A↑ kids↑ are↑ playing↑ outdoors↑ near↑ one↑ man↑ with↑ a↑ smile↑ 
+A↑ kids↑ are↑ playing↑ outdoors↑ near↑ a↑ man↑ with↑ some↑ smile↑ 
+A↑ kids↑ are↑ playing↑ outdoors↑ near↑ a↑ man↑ with↑ an↑ smile↑ 
+A↑ kids↑ are↑ playing↑ outdoors↑ near↑ a↑ man↑ with↑ one↑ smile↑ 
+A↑ kids↑ are↑ playing↑ near↑ a↑ man↑ with↑ a↑ smile↑ 
+A↑ kids↑ are↑ playing↑ outdoors↑ near↑ a↑ man↑ 
+A↑ kids↑ are↑ playing↑ outdoors↑ 
+some↑ kids↑ are↑ playing↑ outdoors↑ 
+an↑ kids↑ are↑ playing↑ outdoors↑ 
+one↑ kids↑ are↑ playing↑ outdoors↑ 
+A↑ kids↑ are↑ playing↑ 
+some↑ kids↑ are↑ playing↑ outdoors↑ near↑ a↑ man↑ 
+an↑ kids↑ are↑ playing↑ outdoors↑ near↑ a↑ man↑ 
+one↑ kids↑ are↑ playing↑ outdoors↑ near↑ a↑ man↑ 
+A↑ kids↑ are↑ playing↑ outdoors↑ near↑ some↑ man↑ 
+A↑ kids↑ are↑ playing↑ outdoors↑ near↑ an↑ man↑ 
+A↑ kids↑ are↑ playing↑ outdoors↑ near↑ one↑ man↑ 
+A↑ kids↑ are↑ playing↑ near↑ a↑ man↑ 
+some↑ kids↑ are↑ playing↑ near↑ a↑ man↑ with↑ a↑ smile↑ 
+an↑ kids↑ are↑ playing↑ near↑ a↑ man↑ with↑ a↑ smile↑ 
+one↑ kids↑ are↑ playing↑ near↑ a↑ man↑ with↑ a↑ smile↑ 
+A↑ kids↑ are↑ playing↑ near↑ some↑ man↑ with↑ a↑ smile↑ 
+A↑ kids↑ are↑ playing↑ near↑ an↑ man↑ with↑ a↑ smile↑ 
+A↑ kids↑ are↑ playing↑ near↑ one↑ man↑ with↑ a↑ smile↑ 
+A↑ kids↑ are↑ playing↑ near↑ a↑ man↑ with↑ some↑ smile↑ 
+A↑ kids↑ are↑ playing↑ near↑ a↑ man↑ with↑ an↑ smile↑ 
+A↑ kids↑ are↑ playing↑ near↑ a↑ man↑ with↑ one↑ smile↑ 
+some↑ kids↑ are↑ playing↑ outdoors↑ near↑ a↑ man↑ with↑ one↑ smile↑ 
+an↑ kids↑ are↑ playing↑ outdoors↑ near↑ a↑ man↑ with↑ one↑ smile↑ 
+one↑ kids↑ are↑ playing↑ outdoors↑ near↑ a↑ man↑ with↑ one↑ smile↑ 
+A↑ kids↑ are↑ playing↑ outdoors↑ near↑ some↑ man↑ with↑ one↑ smile↑ 
+A↑ kids↑ are↑ playing↑ outdoors↑ near↑ an↑ man↑ with↑ one↑ smile↑ 
+A↑ kids↑ are↑ playing↑ outdoors↑ near↑ one↑ man↑ with↑ one↑ smile↑ 
+A↑ kids↑ are↑ playing↑ outdoors↑ near↑ a↑ man↑ with↑ a↑ smile↑ 
+some↑ kids↑ are↑ playing↑ outdoors↑ near↑ a↑ man↑ with↑ an↑ smile↑ 
+an↑ kids↑ are↑ playing↑ outdoors↑ near↑ a↑ man↑ with↑ an↑ smile↑ 
+one↑ kids↑ are↑ playing↑ outdoors↑ near↑ a↑ man↑ with↑ an↑ smile↑ 
+A↑ kids↑ are↑ playing↑ outdoors↑ near↑ some↑ man↑ with↑ an↑ smile↑ 
+A↑ kids↑ are↑ playing↑ outdoors↑ near↑ an↑ man↑ with↑ an↑ smile↑ 
+A↑ kids↑ are↑ playing↑ outdoors↑ near↑ one↑ man↑ with↑ an↑ smile↑ 
+some↑ kids↑ are↑ playing↑ outdoors↑ near↑ a↑ man↑ with↑ some↑ smile↑ 
+an↑ kids↑ are↑ playing↑ outdoors↑ near↑ a↑ man↑ with↑ some↑ smile↑ 
+one↑ kids↑ are↑ playing↑ outdoors↑ near↑ a↑ man↑ with↑ some↑ smile↑ 
+A↑ kids↑ are↑ playing↑ outdoors↑ near↑ some↑ man↑ with↑ some↑ smile↑ 
+A↑ kids↑ are↑ playing↑ outdoors↑ near↑ an↑ man↑ with↑ some↑ smile↑ 
+A↑ kids↑ are↑ playing↑ outdoors↑ near↑ one↑ man↑ with↑ some↑ smile↑ 
+some↑ kids↑ are↑ playing↑ outdoors↑ near↑ one↑ man↑ with↑ a↑ smile↑ 
+an↑ kids↑ are↑ playing↑ outdoors↑ near↑ one↑ man↑ with↑ a↑ smile↑ 
+one↑ kids↑ are↑ playing↑ outdoors↑ near↑ one↑ man↑ with↑ a↑ smile↑ 
+some↑ kids↑ are↑ playing↑ outdoors↑ near↑ an↑ man↑ with↑ a↑ smile↑ 
+an↑ kids↑ are↑ playing↑ outdoors↑ near↑ an↑ man↑ with↑ a↑ smile↑ 
+one↑ kids↑ are↑ playing↑ outdoors↑ near↑ an↑ man↑ with↑ a↑ smile↑ 
+some↑ kids↑ are↑ playing↑ outdoors↑ near↑ some↑ man↑ with↑ a↑ smile↑ 
+an↑ kids↑ are↑ playing↑ outdoors↑ near↑ some↑ man↑ with↑ a↑ smile↑ 
+one↑ kids↑ are↑ playing↑ outdoors↑ near↑ some↑ man↑ with↑ a↑ smile↑ 
+
+--- tried ** 14 ** contradictions:
+a kid be not play near a man with a smile
+a kid be not play outdoors
+a kid be not play outdoors near a man
+a kid be not play outdoors near a man with a smile
+a kid be not play outdoors near a man with an smile
+a kid be not play outdoors near a man with one smile
+a kid be not play outdoors near a man with some smile
+a kid be not play outdoors near an man with a smile
+a kid be not play outdoors near one man with a smile
+a kid be not play outdoors near some man with a smile
+an kid be not play outdoors near a man with a smile
+no kid be play outdoors near a man with a smile
+one kid be not play outdoors near a man with a smile
+some kid be not play outdoors near a man with a smile
+
+*** H: A YOUNG BOY BE PLAY OUTDOORS AND A MAN BE SMILE NEARBY
+
+*** decision ***
+y_pred: U
+y_true: E
+
+y_pred: ['U']
+y_true: ['E']
+acc:
+
+pred true no.
+U E 3
+
+confusion matrix
+[[0 1 0]
+ [0 0 0]
+ [0 0 0]]
+
+incorrect predictions:
+id, pred, truth
+(3, 'U', 'E')
+0.0
+
+
+--- 2.362699031829834 seconds ---
