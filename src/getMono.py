@@ -504,7 +504,7 @@ class CCGtree:
                 s += '{}{} '.format(lfnode.word, lfnode.cat.monotonicity)
             else: s += '{}{} '.format(lfnode.word, '=')
         s = s.replace('DOWN', '\u2193').replace('UP', '\u2191').replace('UNK', '=')
-        print(s, file=stream)
+        print(s.encode("utf-8"), file=stream)
         return s
 
     def printSent_no_pol(self, stream=sys.stdout):
