@@ -524,7 +524,7 @@ class CCGtree:
             s += '{}{} '.format(lfnode.word_raw, mono)
         s = s.replace('DOWN', '\u2193').replace('UP', '\u2191').\
               replace('UNK', '=')
-        print(s, file=stream)
+        print(s.encode("utf-8"), file=stream)
         return s
 
     def printSent_raw_no_pol(self, stream=sys.stdout, verbose=True):
@@ -532,7 +532,7 @@ class CCGtree:
         s = ''
         for lfnode in self.leafNodes:
             s += '{} '.format(lfnode.word_raw)
-        if verbose: print(s, file=stream)
+        if verbose: print(s.encode("utf-8"), file=stream)
         return s
 
     def printImpSign(self, impSign):
