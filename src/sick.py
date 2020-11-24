@@ -199,8 +199,8 @@ class SICK_solver():
             H = trees.build_one_tree(self.P_idx(id_to_solve), "easyccg", use_lemma)
 
         # just print P, H
-        # print("{}\t{}\t{}".format(id_to_solve, P.printSent_raw_no_pol(stream=sys.stderr).strip(), H.printSent_raw_no_pol(stream=sys.stderr)))
-        # return
+        print("{}\t{}\t{}".format(id_to_solve, P.printSent_raw_no_pol(stream=sys.stderr).strip(), H.printSent_raw_no_pol(stream=sys.stderr)))
+        return
 
         # -----------------------------
         # passive to active
