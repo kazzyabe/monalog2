@@ -9,6 +9,8 @@ errors summary
     9014: a blond child vs child with dark hair
 9706: standing vs running
 
+3670: it is raining vs in rain
+7937
 
 
 (with no vs a)
@@ -28,19 +30,65 @@ errors summary
 2364
 2405
 2557--------
+2795: 3122: 3250: 3586:
+3773: verb noun swapping
+3909: 4066: 4288: 4505: 4734:
+5003: conjunction
+5030: 5110: 5113:
+6932: implication
+7018: 7093: 7471
+7477: of to adj
+7546: adj to PP
+7889 8057 8576
+8633 8678
+8714: addition of adverb
+8786
+9069 9433
+9584
+9747 1177 1400
+2968
+
+
+
+
+
+3880: meaning implication (dancing on ceiling == upside down)
+4006
+
 
 987: conjunction
 6544
 2772: oil for cooking vs cooking oil
+6287: conjunction
+7582: conjunction
+9571:
 
 8193: two are not gathered vs something gathered two
 
 947: embedding order
 2722:embedding to adjective
+2791: pig which is small vs small pig
+3275: PP to compound
+3373: 
+6047: removing embedding
+6634: 
+6649: adj to PP
+6705
+7311: conjunction order
+7445: adj to who
+7466: which
+9132
+9136: conjuncgtify
+
+7677: bidirectional verbs (play: sub PP not matter)
 
 1690: Passive to active
 1754:
 
 1881: a kittens vs several kittens
 
-FROM: 2791
+3536: ??
+3626
+304
+
+FROM: 7582
